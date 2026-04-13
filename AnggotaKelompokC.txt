@@ -3,4 +3,8 @@ Satria Faza Lutfian
 M. Affan Febryant T. - 102042300108
 Alliya Ghina
 Randy Abraham
+<<<<<<< HEAD
 Ignatius Kevin J.M.
+=======
+Ignatius Kevin J.Manurung. - 102042300094
+>>>>>>> 8c1821d (Menambahkan NIM pada Nama Ignatius Kevin J.Manurung)
