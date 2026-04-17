@@ -1,3 +1,15 @@
 Randy Abraham Pythagoras Hutasoit - 102042300086
 
-Kendala (Sprint 1 - PBI-03):
+Progress Update (Sprint 1 - PBI-03):
+
+- Menganalisis kebutuhan fitur ringkasan energi (total kWh dan estimasi biaya).
+- Mencari referensi perhitungan estimasi biaya listrik berdasarkan tarif per kWh.
+- Merancang alur proses perhitungan ringkasan energi (input → proses → output).
+- Menentukan asumsi tarif listrik yang akan digunakan dalam sistem. (⚠ masih dalam tahap penyesuaian)
+- Mengidentifikasi potensi kendala dalam implementasi seperti integrasi database, UI, dan validasi data. (⚠)
+
+Status:
+Sebagian besar tahap analisis dan perancangan telah selesai, namun masih terdapat beberapa aspek yang perlu disempurnakan.
+
+Next Step:
+Melanjutkan ke tahap implementasi logic perhitungan dan integrasi data pada Sprint berikutnya.
