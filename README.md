@@ -1,5 +1,3 @@
-Berikut laporan WattCare yang sudah **disesuaikan dengan aplikasi yang kita buat** saat ini.
-
 # ⚡ WattCare — Aplikasi Monitoring Konsumsi Listrik
 
 **WattCare** adalah aplikasi web berbasis Laravel untuk memantau dan menganalisis penggunaan listrik rumah tangga. Aplikasi ini membantu pengguna mencatat penggunaan perangkat elektronik, menghitung konsumsi energi (kWh), estimasi biaya, serta dampak lingkungan (emisi CO₂) secara otomatis, disajikan dalam bentuk dashboard dan grafik yang mudah dipahami.
